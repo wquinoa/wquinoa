@@ -1,7 +1,7 @@
 ### Filipp Evseev
 #### English tutor by the day, 21 School student by the night.
 
-I’m currently working on ft_containers project of the 42 cursus, which is going to be my implementation the C++ STL.
+I’m currently working on "ft_containers" of the 42 cursus, which is going to be my implementation the C++ STL.
 
 Looking into Rust and Golang on the side.
 
