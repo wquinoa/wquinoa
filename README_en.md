@@ -9,8 +9,6 @@
 |---	|---	|
 | Secondary skills  	| [<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>](https://github.com/Ileriayo/markdown-badges)[<img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>](https://github.com/Ileriayo/markdown-badges)  	|
 
-I’m currently working on "ft_transcendence" of the 42 cursus, which is going to be a webapp powered by Ruby and Js.
-
 Trouble with $PROJECT_NAME?
 
 Can't find $ERROR_TYPE in your code?
