@@ -8,8 +8,6 @@
 |---	|---	|
 | Второстепенные навыки  	| [<img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes%20-%23326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>](https://github.com/Ileriayo/markdown-badges)   |
 
-Сейчас я пишу "ft_transcendence" - командный проект школы 42 - создание веб-приложения на ruby и js.
-
 Проблемы с проектом $PROJECT_NAME?
 
 Никак не получается найти $ERROR_TYPE в коде?
