@@ -1,6 +1,6 @@
 [In English](README_en.md)
 
-### Филипп Евсеев
+### wquinoa
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
